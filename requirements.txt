@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+langchain
+langgraph
+langchain-community
+langchain-core
+langchain-ollama
+langchain-openai
+langchain-mongodb
+beautifulsoup4
+python-dotenv
+pypdf
+pymongo
